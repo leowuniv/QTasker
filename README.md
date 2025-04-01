@@ -27,9 +27,11 @@ Depicted below is the Unified Modeling Language (UML) Diagram for the applicatio
 
 ## UML Activity Diagram
 
-- <ins>**UML Diagram Direct Link: [Click Here](e)**</ins>
+- <ins>**UML Diagram Direct Link: [Click Here](e)**</ins> **(TO BE EDITED)**
 - _Used Figma to construct activity diagram (normal website): [Access here](https://www.figma.com/)_
-![image](e)
+
+![image](https://github.com/user-attachments/assets/bc077127-668c-4f93-a186-6e52931a63d9
+)
 
 
 ### UML Activity Diagram Index
