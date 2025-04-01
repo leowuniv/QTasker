@@ -16,7 +16,7 @@ Depicted below is the Unified Modeling Language (UML) Diagram for the applicatio
 
 ### UML Activity Diagram Index
 
-![image](![image](https://github.com/user-attachments/assets/9ec322a1-bfbe-4c57-b04c-5398d45c7264))
+![image](https://github.com/user-attachments/assets/9ec322a1-bfbe-4c57-b04c-5398d45c7264)
 
 -division of labor documentation 
 - self
