@@ -45,3 +45,5 @@ Depicted below is the Unified Modeling Language (UML) Diagram for the applicatio
 
 ## Works Cited
 
+Organizers/Fonts/Simplicity Visuals
+- https://fsymbols.com/generators/tarty/
