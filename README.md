@@ -47,3 +47,6 @@ Depicted below is the Unified Modeling Language (UML) Diagram for the applicatio
 
 Organizers/Fonts/Simplicity Visuals
 - https://fsymbols.com/generators/tarty/
+
+Modules
+- https://docs.python.org/3/library/datetime.html
