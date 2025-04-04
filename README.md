@@ -50,3 +50,8 @@ Organizers/Fonts/Simplicity Visuals
 
 Modules
 - https://docs.python.org/3/library/datetime.html
+- https://docs.python.org/3/tutorial/datastructures.html
+- https://docs.python.org/3/library/queue.html
+- https://docs.python.org/3/library/heapq.html
+- https://docs.python.org/3/library/unittest.html
+- https://docs.python.org/3/library/traceback.html
