@@ -50,6 +50,7 @@ and get burnt out eventually, leading them to get overwhelmed and slack off when
 
 Organizers/Fonts/Simplicity Visuals
 - https://fsymbols.com/generators/tarty/
+- https://emojipedia.org/
 
 Modules
 - https://docs.python.org/3/library/datetime.html
