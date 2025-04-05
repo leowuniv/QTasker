@@ -30,7 +30,7 @@ and get burnt out eventually, leading them to get overwhelmed and slack off when
 
 ## UML Activity Diagram
 
-- <ins>**UML Diagram Direct Link: [Click Here](e)**</ins> **(TO BE EDITED)**
+- <ins>**UML Diagram Direct Link: [Click Here](https://www.figma.com/design/2p70vJwW2uYh7xa6cM1Wrp/Leo-Wong---UML-Activity-Diagram-Midterm-Project-Proposal?node-id=0-1&p=f)**</ins> 
 - _Used Figma to construct activity diagram (normal website): [Access here](https://www.figma.com/)_
 
 ![image](https://github.com/user-attachments/assets/bc077127-668c-4f93-a186-6e52931a63d9
