@@ -1,4 +1,4 @@
-# QTasker
+# QTasker 💡
 **Quick-Tasker** (Easy, one step at a time.)
 
 _The slogan or motto "Easy, on the go" denotes to tasks being able to be written down and fulfilled quickly anywhere at anytime._
@@ -23,7 +23,10 @@ The main objectives of this project is to make students have an easier time read
 
 # Planning Write Up
 
-Depicted below is the Unified Modeling Language (UML) Diagram for the application QTasker, a simple to-do task manager. I know that many students struggle with... (place problem statement here)
+Depicted below is the Unified Modeling Language (UML) Diagram for the application QTasker, a simple to-do task manager. I know that many students struggle with focusing on their tasks when they have various assignments delagated to them. I also know that students may be procrastinators
+and get burnt out eventually, leading them to get overwhelmed and slack off when visualizing many deadlines, which ultimately results in failure and bad preparation. I find that things can get very crammed on the calendar sometimes which makes it uneasy for individuals to read. Therefore, I planned to create this project by aiming to solve making tasks more readable and simpler by allowing individuals to find any tasks they need to do on specific days to ensure that they have completed all their "to-dos" for the day.
+
+--------------------------
 
 ## UML Activity Diagram
 
@@ -38,9 +41,9 @@ Depicted below is the Unified Modeling Language (UML) Diagram for the applicatio
 
 ![image](https://github.com/user-attachments/assets/9ec322a1-bfbe-4c57-b04c-5398d45c7264)
 
--division of labor documentation 
-- self
-- - timeline
+## Division of Labor Documentation 📓
+- N/A or Self
+- Initial plan listed in project proposal timeline
 --------------------------
 
 ## Works Cited
