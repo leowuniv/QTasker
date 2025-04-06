@@ -60,3 +60,6 @@ Modules
 - https://docs.python.org/3/library/heapq.html
 - https://docs.python.org/3/library/unittest.html
 - https://docs.python.org/3/library/traceback.html
+
+Other:
+- https://medium.com/@momtajhossain2001/doubly-linked-list-using-python-e0d34cd39c89
