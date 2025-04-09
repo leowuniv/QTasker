@@ -68,3 +68,4 @@ Other:
 - https://www.youtube.com/watch?app=desktop&v=5Rec4JS9H5o
 - https://www.w3schools.com/python/python_datetime.asp
 - https://www.google.com/
+- https://docs.python.org/3/tutorial/errors.html
