@@ -70,3 +70,4 @@ Other:
 - https://www.w3schools.com/python/python_datetime.asp
 - https://www.google.com/
 - https://docs.python.org/3/tutorial/errors.html
+- https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
