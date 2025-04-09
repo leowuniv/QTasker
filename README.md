@@ -41,8 +41,8 @@ and get burnt out eventually, leading them to get overwhelmed and slack off when
 - <ins>**UML Diagram Direct Link: [Click Here](https://www.figma.com/design/C6QOstqnST71NzALDtCPOv/Leo-Wong---UML-Activity-Diagram-Midterm--Post-Proposal--Project-Proposal?node-id=0-1&p=f&t=n16X9BSFZVAq7Q2t-0)**</ins> 
 - _Used Figma to construct activity diagram (normal website): [Access here](https://www.figma.com/)_
 
-- ![image](https://github.com/user-attachments/assets/43e941cc-183e-4328-be43-2eb53048dc58
-)
+![image](https://github.com/user-attachments/assets/43e941cc-183e-4328-be43-2eb53048dc58
+) - To be continuously updated frequently
 
 ### UML Activity Diagram Index
 
