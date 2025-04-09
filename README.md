@@ -38,10 +38,11 @@ and get burnt out eventually, leading them to get overwhelmed and slack off when
 
 ## UML Activity Diagram (Post-Update)
 
-- <ins>**UML Diagram Direct Link: [Click Here](https://www.figma.com/design/2p70vJwW2uYh7xa6cM1Wrp/Leo-Wong---UML-Activity-Diagram-Midterm-Project-Proposal?node-id=0-1&p=f)**</ins> 
+- <ins>**UML Diagram Direct Link: [Click Here]([https://www.figma.com/design/2p70vJwW2uYh7xa6cM1Wrp/Leo-Wong---UML-Activity-Diagram-Midterm-Project-Proposal?node-id=0-1&p=f](https://www.figma.com/design/C6QOstqnST71NzALDtCPOv/Leo-Wong---UML-Activity-Diagram-Midterm--Post-Proposal--Project-Proposal?node-id=0-1&t=n16X9BSFZVAq7Q2t-1))**</ins> 
 - _Used Figma to construct activity diagram (normal website): [Access here](https://www.figma.com/)_
 
-- ![image](e
+- ![image](![image](![image](https://github.com/user-attachments/assets/43e941cc-183e-4328-be43-2eb53048dc58)
+
 )
 
 ### UML Activity Diagram Index
