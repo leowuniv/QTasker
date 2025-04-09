@@ -17,7 +17,7 @@ The main objectives of this project is to make students have an easier time read
     Some of the things that the project will not cover is things like (Potential Future Implementations): 
     - AI integration - Images/visualizations
     - a GUI system
-    - Other advanced calendar systems such as reminders
+    - Other advanced calendar systems such as reminders (edits, more tasks, etc...)
 
 --------------------------
 
