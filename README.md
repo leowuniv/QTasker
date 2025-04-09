@@ -44,6 +44,7 @@ and get burnt out eventually, leading them to get overwhelmed and slack off when
 ## Division of Labor Documentation 📓
 - N/A or Self
 - Initial plan listed in project proposal timeline
+- UML Diagram adjusted accordingly post-proposal
 --------------------------
 
 ## Works Cited
