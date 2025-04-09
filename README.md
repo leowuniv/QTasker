@@ -78,3 +78,6 @@ Other:
 - https://www.google.com/
 - https://docs.python.org/3/tutorial/errors.html
 - https://www.w3schools.com/dsa/dsa_data_linkedlists_types.php
+- https://www.youtube.com/watch?v=TGveA1oFhrc
+- https://www.youtube.com/watch?v=Kk6mXAzqX3Y
+- https://stackoverflow.com/questions/68435368/understanding-insertion-sort-for-doubly-linked-list
