@@ -1,3 +1,5 @@
+This is a guide on how to use QTasker.
+
 Setup with clear run instructions:
 (For more information about the project, please refer to README.md)
 
