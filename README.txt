@@ -26,3 +26,7 @@ Run (Features) 🖥️:
 - 3. For searching and sorting algorithms, make sure to select the "display tasks" option after to view the updated task format. 
 - 4. Application will keep running in a loop until the application is exited. Make sure to exit the application when you believe you are finished. 
 - 5. Once you have exited the application, make sure to take a photo of the tasks you have remaining! 
+
+Testing 📐: 
+1. To test the project, simply create another file and refer to the demo testing file.
+2. Paste in the code and run the program to check edge cases. 
