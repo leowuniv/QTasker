@@ -372,7 +372,7 @@ class Stack:
             print("\n⚠️  There are no recently entered tasks. Please enter tasks.")
             return
         print("\n⏳ Urgent/Recently Task Stack (Most Recently Entered):")
-        print("**REMOVE TASK WHEN COMPLETE**")
+        print("**SKIP TASK WHEN COMPLETE (REMOVE, CONTINUE IF ALREADY DELETED)**")
         for i, task in enumerate(reversed(self.stack), 1): # 1 at a time, reverse; check method; report add why regular stack not linkedlist stack
             print(f"{i}. {task.displayTask()}")
 
@@ -405,7 +405,7 @@ class Queue: # Very efficient check the notes
             print("\n⚠️  There are no tasks inserted. Please enter tasks.")
             return
         print("\n📅 Task Queue (Oldest Entered to Newly Entered):")
-        print("**REMOVE TASK WHEN COMPLETE**")
+        print("**SKIP TASK WHEN COMPLETE (REMOVE, CONTINUE IF ALREADY DELETED)**")
         for i, task in enumerate(self.queue, 1): # vice versa of stack implementation
             print(f"{i}. {task.displayTask()}")
 
