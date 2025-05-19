@@ -9,7 +9,7 @@ Setup ⚙️:
 - 2) Paste code into a newly created file or open an application file.
 - 3) Run the program and respond accordingly to prompts in console. 
 
-Run (Features) 🖥️:
+Run (Features) 🖥️: [Console will vary depending on version]
 
 - 1. Simply respond in the console by typing in the number you want to select below.
   - 1) Add Tasks ➕
@@ -21,6 +21,9 @@ Run (Features) 🖥️:
   - 7) Queue by Oldest Tasks First (1 at a time) 📖⬅️
   - 8) Display most recently entered tasks first (1 at a time) 📖➡️
   - 9) Exit Application 👋
+  [Version 2.1 Update]
+  - 10) Task Duration Planner 🕒
+  - 11) Task Duration Shortest Time Sort ⏰
 - 2. Based on the option selected, there may be more prompts. Respond accordingly.
   - For example, adding a task will ask you for date information, task information, urgency information, and more. (Allowed to enter any response to fit your needs of a task, MUST enter a valid date)
 - 3. For searching and sorting algorithms, make sure to select the "display tasks" option after to view the updated task format. 
